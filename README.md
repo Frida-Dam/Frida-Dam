@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying at **Peruvian University of Applied Sciences**
 
-- 🌱 I’m currently learning **SQL Server, C++ and Python**
+- 🌱 I’m currently learning **SQL Server, C++, Javascript and Python**
 
 - 💬 Ask me about **Object-oriented programming (OOP)**
 
